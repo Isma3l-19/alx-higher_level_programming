@@ -2,4 +2,4 @@
 """Prints the value of a"""
 if __name__ == "__main__":
     from variable_load_5 import a
-    print("{}".format(variable_load_5.a))
+    print(a)
