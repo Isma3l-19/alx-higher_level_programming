@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 def safe_print_division(a, b):
-    """divides two integers"""
+    """Returns the division of a by b"""
     try:
-        quotient = a / b
+        div = a / b
     except (TypeError, ZeroDivisionError):
-        quotient = None
+        div = None
     finally:
         print("Inside result: {}".format(div))
-    return (quoteint)
+    return (div)
