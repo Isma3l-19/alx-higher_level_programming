@@ -1,0 +1,1 @@
+this project is about web scraping, using JSON data and how to manipulate it
